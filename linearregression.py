@@ -17,3 +17,5 @@ prediction = model.predict([[8]])
 print(prediction)
 
 #y = mx + c
+
+

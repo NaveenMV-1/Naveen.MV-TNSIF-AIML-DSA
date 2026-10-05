@@ -1,6 +1,6 @@
 public class ds {
     public static void main(String[] args) {
-          int arr[] = {10,20,30,40,50};
+        int arr[] = {10,20,30,40,50};
         int largest = arr[0];
         int second = arr[1];
         if(largest <= second){

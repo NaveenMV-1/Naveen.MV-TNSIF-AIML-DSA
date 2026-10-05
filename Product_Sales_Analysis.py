@@ -3,7 +3,7 @@ import pandas as pd
 data = {
     "Product Name": ["Laptop", "Wireless Mouse", "Mechanical Keyboard", "Monitor", "Office Chair"],
     "Category": ["Electronics", "Electronics", "Electronics", "Electronics", "Furniture"],
-    "Price": [1200.0, 25.0, 75.0, 300.0, 150.0],
+    "Price": [1200.0, 25.0, 75.0, 300.0, 150.0],    
     "Quantity Sold": [40, 120, 85, 30, 60]
 }
 
